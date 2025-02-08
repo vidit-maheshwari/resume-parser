@@ -1,0 +1,8 @@
+Flask
+google-generativeai
+PyPDF2
+docx2txt
+werkzeug
+groq
+tiktoken
+pdfplumber
